@@ -1,0 +1,3 @@
+Custnum: 1
+Name: Petro Siplusenko
+Balance: 2
